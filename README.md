@@ -36,12 +36,20 @@ dbrest.connect(
 )
 ```
 
-### Getting all the workspaces that you have access
+### Example 1 Getting all the list of queries.
 
-As an example, here's how you can get a list of all the workspaces that the user connected to the Power BI REST API has access:
+As an example, here's how you can get a list of all the queries using the databricsk restful services:
 
 ```
 dbrest.retrieve_a_list_of_queries()
+```
+
+### Example 2 Start the databricks cluster using the REST call.
+
+As an example, here's how you can Start the databricks cluster using the REST call.
+```
+dbrest.cluster_start(cluster_id)
+
 ```
 
 ## Documentation
