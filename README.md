@@ -58,7 +58,7 @@ dbrest.cluster_start(cluster_id)
 
 ## Author
 
-[**Sai Krishna Cheruvu**](https://github.com/odbckrishna) - *Data Consultant for [Linkedin](https://www.linkedin.com/in/saicheruvu/)*
+[**Sai Krishna Cheruvu**](https://github.com/odbckrishna) - *Reachout me [Linkedin](https://www.linkedin.com/in/saicheruvu/)*
 
 ## License
 
